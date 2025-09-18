@@ -1,0 +1,5 @@
+model/Oficina.class
+model/Empleat.class
+model/EmpleatDAO.class
+model/OficinaDAO.class
+model/Connexio.class
